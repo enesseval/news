@@ -69,12 +69,14 @@ yarn expo start
 
 ## Ekran Görüntüleri
 
-# Anaekran
+# Ana Ekran
 
-![anaekran](/assets/newsapp.jpeg)
+![anaekran](./assets/newsapp.jpeg)
 
-# Haber detayları
+# Haber Detayları
 
-![haber detay](/assets/newsapp2.jpeg)
-#Filtreleme
-![filtreleme](/assets/newsapp3.jpeg)
+![haber detay](./assets/newsapp2.jpeg)
+
+# Filtreleme
+
+![filtreleme](./assets/newsapp3.jpeg)
