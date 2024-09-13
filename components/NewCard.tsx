@@ -45,6 +45,7 @@ const styles = StyleSheet.create({
    container: {
       padding: 3,
       backgroundColor: "transparent",
+      fontFamily: "Poppins",
    },
    image: {
       width: "100%",
@@ -59,14 +60,6 @@ const styles = StyleSheet.create({
    },
    listItem: {
       backgroundColor: "transparent",
-      shadowColor: "#000",
-      shadowOffset: {
-         width: 0,
-         height: 3,
-      },
-      shadowOpacity: 0.29,
-      shadowRadius: 4.65,
-      elevation: 7,
    },
    newsDate: {
       position: "absolute",

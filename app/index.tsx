@@ -170,6 +170,7 @@ const styles = StyleSheet.create({
       alignItems: "center",
       backgroundColor: "transparent",
       marginTop: 50,
+      fontFamily: "Poppins",
    },
    popoverButton: {
       position: "absolute",
@@ -180,5 +181,6 @@ const styles = StyleSheet.create({
       flex: 1,
       height: "auto",
       backgroundColor: "transparent",
+      fontFamily: "Poppins",
    },
 });

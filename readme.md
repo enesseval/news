@@ -71,7 +71,7 @@ yarn expo start
 
 # Ana Ekran
 
-![anaekran](https://github.com/enesseval/news/blob/master/assets/newsapp.jpeg)
+![anaekran](./assets/newsapp.jpeg)
 
 # Haber Detayları
 
